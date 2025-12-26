@@ -124,7 +124,3 @@ UI inspired by modern cybersecurity dashboards
 Charts powered by **Chart.js**
 
 ---
-
-## 🌐 Live Project
-
-👉 https://monxcode.github.io/CyberRakshak/
