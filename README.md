@@ -81,11 +81,11 @@ Detect karta hai:
 
 ##  How It Works (Simple Flow)
 
-1. User URL ya text input karta hai  
-2. System rules ke basis par multiple checks karta hai  
-3. Har rule ek threat score add karta hai  
-4. Final score se risk level decide hota hai  
-5. UI me:
+1. User inputs URL or text  
+2. The system performs multiple checks based on the rules.  
+3. Each rule adds one threat score  
+4. The final score determines the risk level.
+5. In the UI:
    - Risk meter update
    - Reasons show
    - Chart update
