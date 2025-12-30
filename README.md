@@ -119,7 +119,7 @@ For real-world security, always rely on professional security tools.
 
 ##  Credits
 
-Built by Team : **Tech4Impact**  
+Built Perpose : **Hackethon**  
 Contributor : **Manish Suthar & Mohan Singh Parmar**
 
 UI inspired by modern cybersecurity dashboards  
