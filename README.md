@@ -119,7 +119,7 @@ For real-world security, always rely on professional security tools.
 
 ##  Credits
 
-Built Perpose : **Hackethon**  
+Built Perpose : **Tech Sprint 2026 GDGOC RBU (Hackethon)**  
 Contributor : **Manish Suthar & Mohan Singh Parmar**
 
 UI inspired by modern cybersecurity dashboards  
