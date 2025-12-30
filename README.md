@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 **Cyber Threat Detector (CyberRakshak)** ek browser-based, frontend-only security tool hai jo suspicious **URLs** aur **texts** ko analyze karta hai.  
 Ye tool common phishing, scam aur malicious patterns ko **rule-based logic** se detect karta hai — bina kisi backend, API ya database ke.
@@ -18,15 +18,15 @@ Project ka main goal:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🔍 Threat Analysis
+###  Threat Analysis
 - URL analysis (phishing indicators)
 - Text analysis (urgent / scammy language)
 - Text se URL auto-extract
 - Same input → same output (consistent results)
 
-### 🧠 Rule-Based Detection Engine
+###  Rule-Based Detection Engine
 Detect karta hai:
 - HTTP (non-secure) URLs  
 - IP address as domain  
@@ -38,7 +38,7 @@ Detect karta hai:
 - Brand impersonation & typosquatting  
 - Phishing keywords & urgency language  
 
-### 📊 Visual Risk Output
+### Visual Risk Output
 - Animated **Risk Meter (0–10)**
 - Threat levels:
   - `0–2 → Safe`
@@ -48,7 +48,7 @@ Detect karta hai:
 - Chart.js based threat breakdown
 - Clear reason list with icons
 
-### 🎮 Gamification
+###  Gamification
 - User security score (points)
 - Progress bar system
 - Badge unlocking:
@@ -58,11 +58,11 @@ Detect karta hai:
   - Security Expert
 - LocalStorage based (no login needed)
 
-### 💡 Personalized Safety Tips
+###  Personalized Safety Tips
 - Threat ke according dynamic safety tips
 - Easy-to-understand recommendations
 
-### 🎨 UI / UX
+###  UI / UX
 - Glassmorphism + neon Gen-Z design
 - Smooth animations
 - Fully responsive (mobile + desktop)
@@ -70,7 +70,7 @@ Detect karta hai:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **HTML5** – Structure  
 - **CSS3** – Glassmorphism, animations, responsiveness  
@@ -85,7 +85,7 @@ Detect karta hai:
 
 ---
 
-## ⚙️ How It Works (Simple Flow)
+##  How It Works (Simple Flow)
 
 1. User URL ya text input karta hai  
 2. System rules ke basis par multiple checks karta hai  
@@ -100,7 +100,7 @@ Detect karta hai:
 
 ---
 
-## 🧪 Example Inputs
+##  Example Inputs
 
 - `http://secure-login-bank.com/verify`
 - `https://bit.ly/suspicious-offer`
@@ -109,7 +109,7 @@ Detect karta hai:
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is a **frontend demonstration tool** using **rule-based detection**.  
 It is meant for **education, awareness, and hackathon demos** only.  
@@ -117,7 +117,7 @@ For real-world security, always rely on professional security tools.
 
 ---
 
-## 🙌 Credits
+##  Credits
 
 Built by **Tech4Impact**  
 UI inspired by modern cybersecurity dashboards  
