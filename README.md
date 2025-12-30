@@ -13,8 +13,8 @@
 **Cyber Threat Detector (CyberRakshak)** ek browser-based, frontend-only security tool hai jo suspicious **URLs** aur **texts** ko analyze karta hai.  
 Ye tool common phishing, scam aur malicious patterns ko **rule-based logic** se detect karta hai — bina kisi backend, API ya database ke.
 
-Project ka main goal:
-> **Cybersecurity awareness + interactive learning**, especially hackathons aur demos ke liye.
+Project  main goal:
+> **Cybersecurity awareness + interactive learning**, especially for hackathons & demos.
 
 ---
 
