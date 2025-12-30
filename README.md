@@ -23,7 +23,7 @@ This Project  main goal:
 ###  Threat Analysis
 - URL analysis (phishing indicators)
 - Text analysis (urgent / scammy language)
-- Text se URL auto-extract
+- Auto-extract URL from Text
 - Same input → same output (consistent results)
 
 ###  Rule-Based Detection Engine
