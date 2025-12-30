@@ -120,7 +120,7 @@ For real-world security, always rely on professional security tools.
 ##  Credits
 
 Built by Team : **Tech4Impact**  
-member: **Manish Suthar & Mohan Singh Parmar**
+Duo: **Manish Suthar & Mohan Singh Parmar**
 
 UI inspired by modern cybersecurity dashboards  
 Charts powered by **Chart.js**
